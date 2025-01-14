@@ -1,4 +1,3 @@
-Это задания с курса на степике по автоматизированному тестированию с Python и Selenium
+# Python auto testing selenium_course_py
 
-https://stepik.org/course/575/syllabus
-# selenium_course_py
+Это задания с курса на степике по автоматизированному тестированию с Python и Selenium
